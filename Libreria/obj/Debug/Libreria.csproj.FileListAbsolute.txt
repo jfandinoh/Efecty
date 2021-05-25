@@ -1,0 +1,6 @@
+D:\Documents\01. Proyectos\slnEfecty\Libreria\bin\Debug\Libreria.dll
+D:\Documents\01. Proyectos\slnEfecty\Libreria\bin\Debug\Libreria.pdb
+D:\Documents\01. Proyectos\slnEfecty\Libreria\obj\Debug\Libreria.csproj.CoreCompileInputs.cache
+D:\Documents\01. Proyectos\slnEfecty\Libreria\obj\Debug\Libreria.dll
+D:\Documents\01. Proyectos\slnEfecty\Libreria\obj\Debug\Libreria.pdb
+D:\Documents\01. Proyectos\slnEfecty\Libreria\obj\Debug\Libreria.csprojAssemblyReference.cache

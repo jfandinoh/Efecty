@@ -1,0 +1,5 @@
+c:\users\jafh\documents\visual studio 2010\Projects\WcfServiceJafh\WcfServiceJafh\bin\WcfServiceJafh.dll
+c:\users\jafh\documents\visual studio 2010\Projects\WcfServiceJafh\WcfServiceJafh\bin\WcfServiceJafh.pdb
+c:\users\jafh\documents\visual studio 2010\Projects\WcfServiceJafh\WcfServiceJafh\obj\Debug\ResolveAssemblyReference.cache
+c:\users\jafh\documents\visual studio 2010\Projects\WcfServiceJafh\WcfServiceJafh\obj\Debug\WcfServiceJafh.dll
+c:\users\jafh\documents\visual studio 2010\Projects\WcfServiceJafh\WcfServiceJafh\obj\Debug\WcfServiceJafh.pdb

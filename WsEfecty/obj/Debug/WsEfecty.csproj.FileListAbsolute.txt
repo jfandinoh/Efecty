@@ -1,0 +1,10 @@
+D:\Documents\01. Proyectos\SlnEfecty\WsEfecty\obj\Debug\WsEfecty.csprojAssemblyReference.cache
+D:\Documents\01. Proyectos\SlnEfecty\WsEfecty\obj\Debug\WsEfecty.csproj.CoreCompileInputs.cache
+D:\Documents\01. Proyectos\SlnEfecty\WsEfecty\bin\WsEfecty.dll.config
+D:\Documents\01. Proyectos\SlnEfecty\WsEfecty\bin\WsEfecty.dll
+D:\Documents\01. Proyectos\SlnEfecty\WsEfecty\bin\WsEfecty.pdb
+D:\Documents\01. Proyectos\SlnEfecty\WsEfecty\bin\Libreria.dll
+D:\Documents\01. Proyectos\SlnEfecty\WsEfecty\bin\Libreria.pdb
+D:\Documents\01. Proyectos\SlnEfecty\WsEfecty\obj\Debug\WsEfecty.csproj.CopyComplete
+D:\Documents\01. Proyectos\SlnEfecty\WsEfecty\obj\Debug\WsEfecty.dll
+D:\Documents\01. Proyectos\SlnEfecty\WsEfecty\obj\Debug\WsEfecty.pdb
